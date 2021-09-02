@@ -1,8 +1,7 @@
 {
-  "name": "astrophel-states",
-  "private": false,
-  "version": "0.0.1-2",
-  "description": "Astrophel Js State Management Library",
+  "name": "astrophel",
+  "version": "0.0.1",
+  "description": "Astrophel Js",
   "main": "lib/index.js",
   "keywords": [],
   "author": "retzd-tech",
