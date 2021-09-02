@@ -14,7 +14,7 @@ Contribution is welcome.
 
 ## CLI
 
-Using [Astrophel CLI](https://www.npmjs.com/package/astrophel) will automatically install this
+Using [Astrophel CLI](https://www.npmjs.com/package/astrophel-cli) will automatically install this
 ```
 $ npm install -g astrophel-cli
 $ astrophel create
