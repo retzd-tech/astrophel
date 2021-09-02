@@ -10,6 +10,14 @@ Contribution is welcome.
 
     $ npm install astrophel --save
 
+    
+
+## CLI
+
+Using [Astrophel CLI](https://www.npmjs.com/package/astrophel) will automatically install this
+    $ npm install -g astrophel-cli
+    & astrophel create
+
 ## Requirements
 
 For development, you will only need Node.js and a node global package installed in your environement.
