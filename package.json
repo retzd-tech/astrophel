@@ -1,6 +1,6 @@
 {
   "name": "astrophel",
-  "version": "0.0.2",
+  "version": "0.0.2-1",
   "description": "Astrophel Js",
   "main": "lib/index.js",
   "keywords": [],
