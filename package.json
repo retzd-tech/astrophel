@@ -7,8 +7,7 @@
   "author": "retzd-tech",
   "license": "MIT",
   "scripts": {
-    "test": "jest --coverage",
-    "start": "react-scripts start"
+    "test": "jest --coverage"
   },
   "dependencies": {
     "recoil": "^0.4.1",
